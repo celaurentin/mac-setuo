@@ -6,6 +6,8 @@
 * brew install --cask iterm2
 * brew install git
 * brew install git-flow
+* brew install hub
+  * https://hub.github.com/
 * brew install zsh
   * sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   * nano ~/.zshrc
