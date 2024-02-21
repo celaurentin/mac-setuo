@@ -3,6 +3,7 @@
 
 * Homebrew
     * /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+* brew install --cask iterm2
 * brew install git
 * brew install git-flow
 * brew install zsh
@@ -26,3 +27,8 @@
   * sdk list java
   * sdk install 8.322.06.1-amzn
   * sdk install sbt
+* xcode-select --install
+* brew install tree
+* brew install --cask sublime-text
+* brew install --cask visual-studio-code
+  * https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
